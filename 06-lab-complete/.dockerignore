@@ -9,3 +9,6 @@ venv/
 *.md
 tests/
 .DS_Store
+check_production_ready.py
+docker-compose.yml
+render.yaml
